@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1641449073430" clover="3.2.0">
-  <project timestamp="1641449073430" name="All files">
-    <metrics statements="36" coveredstatements="36" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7" elements="51" coveredelements="51" complexity="0" loc="36" ncloc="36" packages="1" files="1" classes="1"/>
-    <file name="calculator.js" path="/Users/jayson.guk/Desktop/personal/project/TDD_for_JS/UNIT-BASIC/src/calculator.js">
+<coverage generated="1641450944468" clover="3.2.0">
+  <project timestamp="1641450944468" name="All files">
+    <metrics statements="48" coveredstatements="48" conditionals="11" coveredconditionals="11" methods="9" coveredmethods="9" elements="68" coveredelements="68" complexity="0" loc="48" ncloc="48" packages="1" files="3" classes="3"/>
+    <file name="add.js" path="/Users/jayson.guk/Desktop/personal/project/TDD_for_JS/UNIT-BASIC/src/basic/add.js">
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="async.js" path="/Users/jayson.guk/Desktop/personal/project/TDD_for_JS/UNIT-BASIC/src/basic/async.js">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="2" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="/Users/jayson.guk/Desktop/personal/project/TDD_for_JS/UNIT-BASIC/src/basic/calculator.js">
       <metrics statements="36" coveredstatements="36" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="7"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="cond" truecount="1" falsecount="0"/>
